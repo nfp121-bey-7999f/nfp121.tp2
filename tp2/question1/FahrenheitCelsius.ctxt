@@ -1,8 +1,8 @@
 #BlueJ class context
 comment0.params=args
-comment0.target=void\ main(String[])
-comment0.text=\nle\ point\ d'entr\u00E9e\ de\ cette\ application,\ dont\ le\ commentaire\ est\ \u00E0\ncompl\u00E9ter\n\n@param\ args\n...\n\n
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ \ \ \r\n\ premierement\ \:\ on\ initialise\ \ fahreneit\ \ et\ celsius\ en\ \ 0\ \ \r\n\ \ \ \ \ \r\n\ @param\ args\r\n\ \ deuxiemement\ \:l'utilisation\ de\ la\ boucle\ \ "for"\ parcours\ tous\ les\ array\ et\ \ prend\ chaque\ valeur\ \r\n\ \ et\ \ la\ transforme\ en\ int\ \r\n\ puis\ on\ fait\ appel\ \ a\ la\ methode\ fahrenheitEnCelsius\ \ dans\ la\ variable\ celsius\ \r\n\ et\ finalement\ l'affichage\ \r\n\ \r\n
 comment1.params=f
 comment1.target=float\ fahrenheitEnCelsius(int)
-comment1.text=\nla\ m\u00E9thode\ \u00E0\ compl\u00E9ter.\n\n@param\ f\nla\ valeur\ en\ degr\u00E9\ Fahrenheit\n@return\ la\ conversion\ en\ degr\u00E9\ Celsius\n\n
+comment1.text=\r\n\t\r\n\ @param\ f\r\n\ \ \ \ \ \ \ \ \ \ \ \ la\ valeur\ en\ degr\u00E9\ Fahrenheit\r\n\ @return\ la\ conversion\ en\ degr\u00E9\ Celsius\r\n
 numComments=2
